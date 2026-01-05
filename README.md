@@ -115,4 +115,4 @@ Through this project, I learned:
 
 Niranjan Yadav
 🎓 Student | 💻 C Programmer | 🚀 Aspiring Developer
-![image alt](image_url)
+![image alt](https://github.com/niranjanyadavdev-design/PFC-MINI-PROJECT-NIRANJAN--10895/blob/1e77a2aabb85174c065dde65bbf35db871a37db6/PROGRAMMING_FUNDAMENTAL_C%20-(OUTPUT).png)
